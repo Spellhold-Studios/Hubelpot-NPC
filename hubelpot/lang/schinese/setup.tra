@@ -1,0 +1,282 @@
+@0    = ~哈贝尔波特是图腾德鲁伊（默认职业）~
+@1    = ~哈贝尔波特是乡村德鲁伊（替换职业）~
+@2    = ~哈贝尔波特是蔬菜农夫（替换职业）~
+@3    = ~哈贝尔波特·蓟绒，蔬菜商人 NPC 模组~
+
+@10   = ~Enkida 制作的替换头像~
+
+@100  = ~必须先安装《巴尔王座》或 BG2:EE，才能安装蔬菜商人哈贝尔波特 NPC 模组。~
+@101  = ~请先安装哈贝尔波特 NPC 主体组件，再安装附加内容。~
+
+
+/* -------------- *
+ *  Hubelpot NPC  *
+ * -------------- */
+@1001 = ~哈贝尔波特~
+@1002 = ~要命！咱要完蛋了！~ [sc#hub01]
+@1003 = ~这下挺好。裳提亚保佑咱们大伙，对吧？~ [sc#hub02]
+@1004 = ~这可不中，一点都不中。~ [sc#hub03]
+@1005 = ~俺可受不了这个，一分钟都受不了了！~ [sc#hub04]
+@1006 = ~你们都疯了！行，就这么着吧！~ [sc#hub05]
+@1007 = ~啥？行吧，这回俺来带路，小子，要是你非要这样的话。~ [sc#hub06]
+@1008 = ~俺得歇会儿。脑袋要炸了。~ [sc#hub07]
+@1009 = ~（唱）他对可怜的哈姆说，那小子正抱着自个儿的命根，「啊，那刺猬，我的孩子，根本没法搞。」~ [sc#hub08]
+@1010 = ~好啊！谁想来挨揍！~ [sc#hub09]
+@1011 = ~俺来收拾你！~ [sc#hub10]
+@1012 = ~俺猜这事儿咱没法谈？~ [sc#hub11]
+@1013 = ~看后头！~ [sc#hub12]
+@1014 = ~俺要把你烤成串儿！~ [sc#hub13]
+
+@1016 = ~……唉哟~ [sc#hub15]
+@1017 = ~俺不太舒服。能给俺点药吗？~ [sc#hub16]
+@1018 = ~这下挺好。咱能去找点洋葱吗？~ [sc#hub17]
+@1019 = ~这附近准有家酒馆。~ [sc#hub18]
+@1020 = ~俺在这儿干啥？俺要送命了！~ [sc#hub19]
+@1021 = ~俺看差不多该吃饭了。~ [sc#hub20]
+@1022 = ~俺啥也看不见。咱去找个暖和的好酒馆吧。~ [sc#hub21]
+@1023 = ~嗯？~ [sc#hub22]
+@1024 = ~那你到底要啥？~ [sc#hub23]
+@1025 = ~你想要点啥？~ [sc#hub24]
+@1026 = ~头一遍俺就听见了。~ [sc#hub25]
+@1027 = ~那你需要俺了？~ [sc#hub26]
+@1028 = ~这位大冒险家要点啥？~ [sc#hub27]
+@1029 = ~那俺这就去了。~ [sc#hub28]
+@1030 = ~俺已经尽量快了。~ [sc#hub29]
+@1031 = ~是。~ [sc#hub30]
+@1032 = ~是，俺在办呢。~ [sc#hub31]
+@1033 = ~俺这就办。~ [sc#hub32]
+@1034 = ~俺可不是机器！~ [sc#hub33]
+@1035 = ~俺真希望没离开那铺子。~ [sc#hub34]
+@1036 = ~「绵羊是经典，你兴许也看得出」~ [sc#hub35]
+@1037 = ~「法师的法杖，头上有个疙瘩」~ [sc#hub36]
+@1038 = ~哈！俺可不老！~ [sc#hub37]
+@1039 = ~混账！给俺站住！~ [sc#hub38]
+@1040 = ~俺伤不了这混蛋！~ [sc#hub39]
+@1041 = ~俺撑不住了。~ [sc#hub40]
+
+@1043 = ~该死！俺的法术没了！~ [sc#hub41]
+@1044 = ~被问起他的一生时，哈贝尔波特似乎对你的兴趣有点意外。他乐呵呵地讲起自己在那个明显刀口舔血的蔬菜买卖行当里的经历，还讲了妻子莫拉格和他们的儿子哈姆利什——一个当学徒的面包师。你一再追问，他便带着几分留恋说起自己在沃德河畔小村庄邓尼的童年，还有他父亲——村里的德鲁伊。「俺家那口子跟俺，」哈贝尔波特说，「以前常把蔬菜什么的运到城里去卖。她一向喜欢沃金长廊，于是有一天她说服老恩格租给咱们一个铺位。想着咱也能当个体面商人。」哈贝尔波特微微皱眉，坚称他该回去给你安排补给了。~
+
+
+/* ----------- *
+ *  Creatures  *
+ * ----------- */
+@1046 = ~哈姆利什·蓟绒~
+@1047 = ~甜心范妮·亚当斯~
+@1048 = ~布林斯利·布莱克~
+@1049 = ~侏儒车夫~
+
+
+/* ---------- *
+ *  Epilogue  *
+ * ---------- */
+@1050 = ~晚年时，哈贝尔波特常想起<CHARNAME>的命运与巴尔之子传奇的终局。哈贝尔波特欠<CHARNAME>良多，若非与<CHARNAME>相遇，他如今仍不过是个卖菜的小商贩。<CHARNAME>让哈贝尔波特彻底接受了裳提亚为他安排好的德鲁伊本分，而正因接受了这份本分，他才能为安姆的农夫与平民做出那样大的好事。在同伴的支持下，哈贝尔波特凭着裳提亚的恩宠与新得的政治权力，开始医治这片被战争撕裂的土地：安置老兵，重建大小农场与村镇。可即便如此，哈贝尔波特的灵魂仍不得安宁，他参与过的那些战斗常在心头。哈贝尔波特与他挚爱的莫拉格在这新生活中相互扶持、彼此指引，他们众多的儿女几乎想象不到，正是那些冒险让他们的父亲从卖菜小贩一路成了安姆最大酒馆的东家、六人议会的正式议员。有人问起<CHARNAME>，哈贝尔波特总是微微一笑，然后问对方要不要吃点什么。~
+
+/* ------- *
+ *  Items  *
+ * ------- */
+@1051 = ~号角~
+@1052 = ~被猎的赫恩之号角~
+@1053 = ~这是一支小号角。号角通常以骨或金属制成，能发出各式各样的声响。~
+@1054 = ~据说这件物品是哈贝尔波特的祖父造出来的。按家族传说，沃丹特·蓟绒曾在林中漫步，撞上一群凶恶的叽叽怪。他知道自己那点德鲁伊法术救不了命，眼看大限临头，便向他的神呼喊。「赫恩，」他喊道，「我求你，派你最凶猛的战士来护我！」
+被猎的赫恩，一切注定被捉住、被吃掉的小生灵之主，回应了他。沃丹特的号角响了，奇迹发生了！
+
+随后的兔子雨里，沃丹特得以脱身。自那天起，这支不起眼的号角一直保留着它的力量。
+
+属性：
+
+充能能力：
+- 吹响时召唤两只兔子，并使使用者获得圣域术。装备于快捷物品栏。
+
+重量：1
+
+不可使用职业：
+ 法师杀手~
+
+@1055 = ~德拉坎德罗斯的字条~
+@1056 = ~K，卷轴在我手上，不过我实在想不出 S 能拿它派什么用场。前几次劫掠咱们都赚得不少，可要抓那些没人会惦记的奴隶，越来越难了。另外，听说有一伙雇佣兵可能会给咱们添麻烦。
+你忠顺的毒蛇，
+-D~
+
+@1057 = ~商会金币~
+@1058 = ~这些金币上压着「小商贩商会」的印记。这几乎可以肯定就是哈贝尔波特交给布莱克的那笔钱。~
+
+@1059 = ~见习法杖~
+@1060 = ~法杖军士~
+@1061 = ~敲敲杖~
+@1062 = ~资深法杖~
+@1063 = ~大敲敲杖~
+@1064 = ~卷轴~
+@1065 = ~有智法杖~
+@1066 = ~有智法杖
+
+等级：1
+射程：自身
+持续时间：1 回合
+施法时间：1
+影响范围：一根木质法杖、棍棒或圆柱形物体
+豁免检定：无
+
+人们常说，不能凭法杖的长短来判断一个法师，可精通此术的法师绝不会同意。事实上，在普遍使用「有智法杖」的魔法学院里，年轻法师们比的就是谁召出的法杖最长。此术的功用与目的，是召出法师意志的延伸，让一根普通的木杖活起来，代主人上阵。此法固然极为实用，也带着凶险。把法杖派出去，会抽走法师一部分生命精华、知识与意志；法杖越大，损耗越重。过分依赖法杖之力的年轻法师，往往在魔法之路上升得更慢；而最老练的法师，也可能因为轻率驱使那根巨杖而毁掉一生事业。
+
+有许多记载说，大大小小法师的法杖在主人身死后依然存世，在古老废墟与被人遗忘的神殿廊道间游荡。常听人说，某个格外强力的法杖折磨了年轻学徒好几年，或者把他引上了伟大的道路。野杖的正式称呼是「敲敲杖」。
+
+法杖的力量随造作者的技艺增长，如下：
+
+1-4 级：见习法杖。
+5-9 级：法杖军士。
+10-14 级：敲敲杖。
+15-19 级：资深法杖。
+20 级以上：大敲敲杖。
+
+所有法杖都对魔法有一定抗力，但并非不可摧毁，而且每个法师的法杖当然都有自己的主意。
+
+自由敲敲杖的生态：
+一旦脱离主人的控制，寻常法杖会找一个干燥、阴凉的地方筑巢，最好靠近魔法能量之源。大型魔法图书馆的书架背后、放着几件魔法袍的干燥壁橱深处，或者设备齐全的魔法实验室的角落，都是理想之选。在较为老牌的魔法学院里，自由法杖往往充当事实上的守卫；它们有时难以沟通、难以控制，但除非被激怒，很少危险。它们通常会相当护着那些天天在它面前练魔法的学生，可以放心让它们抵挡入侵者。可它们很难理解打闹与戏弄。在这种学院里，能给年轻学徒的最好建议，就是别拿他的「敲敲」瞎玩。~
+/* DEPRECATED as of v2.0.0 = same as @1066
+@1067 = ~Sapient Staff
+Level: 1
+Range: Self
+Duration: 1 Turn
+Casting Time: 1
+Area of Effect: One staff, stick, or cylindrical object made of Wood
+
+It is often said that one cannot judge a wizard by the length of his staff, though wizards well practiced in the use of this spell would disagree. Indeed, in magical academies where Sapient Staff is in common use, it is expected for young mages to debate over who among them has the power to call forth the longest staff of all. The power and purpose of this spell is to call forth an extension of the wizard's will, to animate an ordinary quarterstaff and send it into battle on behalf of its master. While this spell is tremendously useful, it also carries dangers. Sending forth his staff drains the wizard of a certain portion of his vital essence, his knowledge and his will; indeed, the bigger the staff, the more debilitating its use becomes. Young wizards who rely too heavily upon the power of the staff may find advancement in the ranks of magic more difficult to achieve, while the most experienced wizards may find careers destroyed by imprudent deployment of their massive staves.
+There are many reports of the staves of wizards great and small surviving the deaths of their masters, wandering the halls of ancient ruins and forgotten temples. Stories are often told of young apprentices tormented for years or guided towards greatness by a particularly potent staff. A wild staff is properly referred to as a "Tonker".
+The power of the staff increases with the skill of its creator as follows:
+
+Level 1-4 = Junior Staff.
+Level 5-9 = Staff Sergeant.
+Level 10-14 = Tonker.
+Level 15-19 = Senior Staff.
+Level 20+ = Big Tonker.
+
+While all staves are somewhat resistant to magic, they are not invulnerable, and of course every wizard's staff has a mind of its own.
+
+Ecology of the Free Tonker:
+Once free from its master's control, the average staff will seek a dry, cool nesting place, preferably near a source of magical energy. Behind the book-cases in a large magical library, the back of a dry closet containing a few magical robes, or the corner of a well equipped magical laboratory would all be ideal. Free staves often act as de-facto guards in the more well-established academies of magic; sometimes difficult to communicate with or control, these free staves are rarely dangerous unless aroused. Generally they will become quite protective of the students who practice magic daily in their presence, and can be trusted to defend them from intruders. However, roughhousing or teasing is very difficult for them to understand. The very best advice one can give to a young apprentice in such an academy is not to play with his Tonker.~
+*/
+
+
+/* ================= *
+ *  Usability flags  *
+ * ================= */
+@9001 = ~\([Oo]nly[ %tab%]+\)?[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@9002 = ~\(Not[ %tab%]+\|Un\)[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+
+
+/* ------------------- *
+ *  Village Druid kit  *
+ * ------------------- */
+@1071 = ~乡村德鲁伊~
+@1072 = ~乡村德鲁伊~
+@1073 = ~乡村德鲁伊：乡村德鲁伊，又称智者或智妇，常见于许多小型乡野聚落。他们精通草药、畜牧、接生、农事，以及维持一处孤立定居点所必需的诸多杂务。此外，乡村德鲁伊还从土地中汲取魔法来协助这些工作。他们常以正式或非正式的身份充当审判者、记录保管人，以及村长或村议会的顾问。
+
+优势：
+- 1 级：每日一次，可作为天赋能力施放「圣域术」。持续 1 回合。
+- 3 级：获得天赋能力「移除麻痹」，每日一次。
+- 6 级：获得天赋能力「中毒术」，每日一次。
+- 9 级：获得天赋能力「群体治疗」，每日一次。
+- 12 级：获得天赋能力「召唤动物 III」，每日一次。
+
+劣势：
+- 无法使用变形。
+- 每个法术等级的可施放法术数比标准德鲁伊少一个。~
+
+
+/* ---------------------- *
+ *  Vegetable Farmer kit  *
+ * ---------------------- */
+@1081 = ~蔬菜农夫~
+@1082 = ~蔬菜农夫~
+@1083 = ~蔬菜农夫：这名德鲁伊专精于农事与卖菜。<PRO_HESHE>对荒野的兴趣不如别的德鲁伊，最关心的倒是<PRO_HISHER>蔬菜。
+
+优势：
+- 可造出具有特殊效力的各种蔬菜，也可卖给商人换个好价钱：
+  - 番茄：可食用（治疗 15 点生命），也可投掷，造成 1D2 伤害并令目标失明一轮。
+  - 胡萝卜：可用来召唤兔子（如同被猎的赫恩之号角），或吃下治疗 15 点生命。
+  - 辣椒：吃下后可喷火两次，造成 1D8 伤害。
+  - 大蒜：吃下后 3 轮内获得对吸血鬼的保护。
+  - 豆子：可摔在地上制造油腻效果，或吃下施放两次「臭云术」。
+  - 土豆：治疗 30 点伤害。
+- 因砍价本领高超，可在商人处压低买价。
+
+劣势：
+- 无法使用变形。~
+
+@1085 = ~造番茄~
+@1086 = ~此能力可造出十个番茄。~
+@1087 = ~番茄~
+@1088 = ~由「造番茄」能力造出。这些看着朴素的番茄，每吃一个可治疗 15 点伤害。也可当作投掷武器使用。
+
+属性：
+
+充能能力：
+- 食用：治疗 15 点生命
+- 作为投掷武器：造成 1D2 伤害，命中时令目标失明一轮
+
+重量：0~
+
+@1089 = ~造土豆~
+@1090 = ~此能力可造出一个土豆。~
+@1091 = ~土豆~
+@1092 = ~由「造土豆」能力造出。这些看着朴素的土豆，吃下可治疗 30 点伤害。
+
+属性：
+
+充能能力：
+- 食用：治疗 30 点生命。
+
+重量：0~
+
+@1093 = ~造胡萝卜~
+@1094 = ~此能力可造出一根胡萝卜。~
+@1095 = ~胡萝卜~
+@1096 = ~由「造胡萝卜」能力造出。这些看着朴素的胡萝卜，吃下可治疗 15 点伤害。也可用来召唤白兔。
+
+属性：
+
+充能能力：
+- 食用：治疗 15 点生命
+- 召唤白兔，使施法者获得 1 分钟圣域术效果。
+
+重量：0~
+
+@1097 = ~造辣椒~
+@1098 = ~此能力可造出一只辣椒。~
+@1099 = ~辣椒~
+@1100 = ~吃下这只辣椒，你就能喷出火焰，造成 1D8 伤害。
+
+属性：
+
+充能能力：
+- 火焰吐息（2 次）：1D8 火焰伤害。
+
+重量：0~
+
+@1101 = ~造大蒜~
+@1102 = ~此能力可造出一头大蒜。~
+@1103 = ~大蒜~
+@1104 = ~吃下这头大蒜，你将在 3 轮内获得对吸血鬼的抗性与免疫等级吸取。同时会有 -3 魅力惩罚，持续 1 回合。
+
+属性：
+
+充能能力：
+- 3 轮内获得对吸血鬼与等级吸取的保护。
+
+重量：0~
+
+@1105 = ~造豆子~
+@1106 = ~此能力可造出豆子。~
+@1107 = ~豆子~
+@1108 = ~由「造胡萝卜」能力造出（原文如此），这些豆子既可吃下，也可摔在地上。
+
+属性：
+
+充能能力：
+- 食用：可施放两次「臭云术」。
+- 摔在地上会产生油腻效果（需通过对抗吐息的豁免检定）。
+
+重量：0~
+
+@1110 = ~吃~
